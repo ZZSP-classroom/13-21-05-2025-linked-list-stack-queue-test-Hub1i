@@ -6,8 +6,8 @@ class Call:
 
 class CallCenter:
     def __init__(self):
-        self.incoming_calls = []  
-        self.processing_calls = [] 
+        self.incoming_calls = []  # Kolejka dla połączeń przychodzących
+        self.processing_calls = []  # Stos dla połączeń w trakcie obsługi
 
     def receive_call(self, call):
         """Dodaje połączenie do kolejki przychodzących połączeń"""

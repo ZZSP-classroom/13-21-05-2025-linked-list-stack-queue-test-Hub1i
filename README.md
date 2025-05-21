@@ -1,1 +1,2 @@
-### AUTHOR : HUBERT ZARYCHTA
+### Author:
+Hubert Zarychta
